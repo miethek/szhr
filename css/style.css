@@ -1,0 +1,141 @@
+.required{
+    font-size: 80%;
+    color: #B94A48;
+  
+}
+#recaptcha_area{
+  padding-left: 10px;
+}
+#recaptcha_logo{
+    display: none;
+  
+}
+.input input.kod1{
+	width: 30px;
+	margin-right: 10px;
+}
+.input input.kod2{
+	width: 40px;
+}
+.input input.date{
+	width: 200px;
+	margin-right: 5px;
+}
+#regulamin_content{
+	text-decoration: underline;
+	cursor: pointer;
+}
+.input-prepend{
+	font-size: 1em;
+	white-space: normal;
+}
+.row-fluid input[type="checkbox"]{
+	width: 20px;
+	vertical-align: top;
+	min-height: 10px;
+	
+}
+.check_content{
+	display: inline-block;
+	width: 90%;
+	
+}
+.ui-tooltip{
+	font-size: 0.8em;
+	padding: 3px;
+	margin: 0;
+}
+.brand a{
+	color: #ffffff;
+}
+.winner{
+  width: 500px;
+  margin: 0px auto;
+}
+
+div .success_box {
+    background-color: #ecf1e9;
+    border: 1px solid #a3c389;
+    border-radius: 4px;
+/*     color: #468847; */
+    margin-bottom: 20px;
+    padding: 8px 35px 8px 14px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+/*.row-fluid .span12 .input input{
+	width: 300px;
+}*/
+.edit_form{
+	width: 300px;
+}
+
+.pagination div,.pagination a{
+    display: inline;
+    
+/*     border-color: #DDDDDD; */
+    
+    
+}
+.pagination div {
+/*   border-right: 1px solid #DDDDDD; */
+/*   border-left: 1px solid #DDDDDD; */
+  padding: 4px 12px;
+}
+.pagination a{
+    color: #bbb;
+}
+.pagination .current{
+    font-weight: bold;
+  
+}
+.pagination div:last-child{
+/*   border: none; */
+}
+
+.pagination_bar{
+   text-align: center;
+  
+}
+.pagination{
+  text-align: center;
+  display: inline;
+  padding: 4px 12px;
+   border-radius: 4px;
+   border: 1px solid #DDDDDD;
+/*    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05); */
+  
+}
+.input-prepend label{
+   /* margin-left: 10px;
+     float: left; 
+   * height: 20px;*/
+    
+}
+.clear{
+    clear: both;
+  
+}
+.switch-button-background{
+/*   display: inline-block; */
+/*   margin: 5px; */
+  
+}
+.cs_checkbox{
+    margin-bottom: 10px;
+	display: block;
+	height: 20px;
+	margin-left: 0px;
+	padding-left: 0px;
+	
+   /* margin-left: 0px;
+    padding-left: 0px;*/  
+}
+.cs_checkbox label{
+/*     padding-left: 10px; */
+    /*float: left;*/
+}
+.cs_checkbox span{
+/*display: block;
+*/
+    //*loat: lef*/
+}
