@@ -14,8 +14,8 @@
 | path to your installation.
 |
 */
-// $config['base_url']	= 'http://serwis.miethek.net/';
-$config['base_url']	= 'http://localhost/serwis/';
+//$config['base_url']	= 'http://kr.cssoft.pl/';
+ $config['base_url']	= 'http://localhost/kr/';
 
 /*
 |--------------------------------------------------------------------------

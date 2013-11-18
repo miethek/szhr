@@ -14,8 +14,7 @@
 | path to your installation.
 |
 */
-//$config['base_url']	= 'http://kr.cssoft.pl/';
- $config['base_url']	= 'http://localhost/kr/';
+$config['base_url']	= 'http://cssoft.pl/';
 
 /*
 |--------------------------------------------------------------------------
